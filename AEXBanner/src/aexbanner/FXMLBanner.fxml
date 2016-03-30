@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="80.0" prefWidth="524.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="FXMLBannerController">
+  <children>
+    <Label fx:id="label" layoutX="0.0" layoutY="-1.0" minHeight="16.0" minWidth="69.0" prefWidth="538.0" text="AEXBanner">
+      <font>
+        <Font size="60.0" />
+      </font>
+    </Label>
+  </children>
+</AnchorPane>

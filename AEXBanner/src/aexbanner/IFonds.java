@@ -10,8 +10,13 @@ package aexbanner;
  * @author Jean Paul
  */
 public interface IFonds {
-    
-  public String getNaam();
-  public Double getKoers();
+
+    /**
+     *
+     * @return
+     */
+    public String getNaam();
+    public Double getKoers();
 }
+
 
